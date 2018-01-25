@@ -1,5 +1,8 @@
 require 'pry'
 
 def my_all?(collection)
-
-end
+  counter = 0
+  while counter < collection.length
+    counter +=1
+  end #while 
+end #method
