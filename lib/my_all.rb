@@ -8,9 +8,9 @@ def my_all?(collection)
     counter +=1
   end #while
 
-  if block_return_values.include(false)
-    false
-  else
-    true
-  end #if statement
+  # if block_return_values.include(false)
+  #   false
+  # else
+  #   true
+  # end #if statement
 end #method
