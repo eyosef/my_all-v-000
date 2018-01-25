@@ -12,7 +12,5 @@ def my_all?(collection)
     false
   else
     true
-  end
-
-
+  end #if statement
 end #method
